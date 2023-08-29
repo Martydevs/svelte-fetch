@@ -5,11 +5,11 @@
 <main>
   <header>
     <a href="https://svelte.dev/">
-      <img src="public\svelte.svg" alt="Svelte Icon" />
+      <img src="../public/svelte.svg" alt="Svelte Icon" />
     </a>
     <h1>Svelte Users</h1>
     <a href="https://github.com/Martydevs/svelte-fetch">
-      <img src="public\github-icon.svg" alt="Github Icon" />
+      <img src="../public/github-icon.svg" alt="Github Icon" />
     </a>
   </header>
   <UsersList />
