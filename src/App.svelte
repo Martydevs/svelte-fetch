@@ -1,16 +1,15 @@
 <script>
   import UsersList from "./components/UsersList.svelte";
-  let src = ["src/assets/svelte.svg", "src/assets/github-icon.svg"];
 </script>
 
 <main>
   <header>
     <a href="https://svelte.dev/">
-      <img src={src[0]} alt="Svelte Icon" />
+      <img src="src\assets\svelte.svg" alt="Svelte Icon" />
     </a>
     <h1>Svelte Users</h1>
     <a href="https://github.com/Martydevs/svelte-fetch">
-      <img src={src[1]} alt="Github Icon" />
+      <img src="src\assets\github-icon.svg" alt="Github Icon" />
     </a>
   </header>
   <UsersList />
