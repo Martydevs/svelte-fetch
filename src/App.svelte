@@ -9,7 +9,7 @@
       <img src={src[0]} alt="Svelte Icon" />
     </a>
     <h1>Svelte Users</h1>
-    <a href="https://github.com/Martydevs">
+    <a href="https://github.com/Martydevs/svelte-fetch">
       <img src={src[1]} alt="Github Icon" />
     </a>
   </header>
